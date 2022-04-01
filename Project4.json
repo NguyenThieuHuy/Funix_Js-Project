@@ -1,0 +1,474 @@
+{
+    "rss": {
+      "channel": {
+        "title": "Daily Search Trends",
+        "description": "Recent searches",
+        "link": [
+          "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+          ""
+        ],
+        "item": [
+          {
+            "title": "Morbius",
+            "approx_traffic": "200,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Morbius",
+            "pubDate": "Thu, 31 Mar 2022 06:00:00 -0700",
+            "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcQVWqIVLV2eeBo3O6aXnbK-OTeFCEXOny_vNdIo8F_vkz3WLc-xl7v8RhY4Zr4depeI0ETQVabD",
+            "picture_source": "Los Angeles Times",
+            "news_item": [
+              {
+                "news_item_title": "&#39;Morbius&#39; review: Long-delayed Jared Leto movie is a misfire",
+                "news_item_snippet": "Jared Leto plays the Marvel antihero &#39;Morbius&#39; in this poorly-made action thriller.",
+                "news_item_url": "https://www.latimes.com/entertainment-arts/movies/story/2022-03-31/review-morbius-jared-leto-marvel",
+                "news_item_source": "Los Angeles Times"
+              },
+              {
+                "news_item_title": "&#39;Morbius&#39; review: Jared Leto tries bringing Marvel&#39;s vampire to life in ...",
+                "news_item_snippet": "As Marvel movies go, &quot;Morbius&quot; is more a sip than a gulp, a relatively small-boned Jekyll-and-Hyde tale that moves another Spider-Man villain into the&nbsp;...",
+                "news_item_url": "https://www.cnn.com/2022/03/31/entertainment/morbius-review/index.html",
+                "news_item_source": "CNN"
+              }
+            ]
+          },
+          {
+            "title": "Jordan Poole",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jordan%20Poole",
+            "pubDate": "Thu, 31 Mar 2022 04:00:00 -0700",
+            "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcTLj1ig-T6NSIOLHiVnolVsLAmUR5yxIdF4Ryq0aNvKUDmd0X5lkkAGubunzg3tx33e_ni5Fq-3",
+            "picture_source": "New York Post",
+            "news_item": [
+              {
+                "news_item_title": "Jordan Poole dooms Warriors with premature half-court shot in loss ...",
+                "news_item_snippet": "Warriors guard Jordan Poole launched a half-court shot while double-teamed with four seconds still to go in Wednesday&#39;s 107-103 loss to the Suns.",
+                "news_item_url": "https://nypost.com/2022/03/31/jordan-poole-dooms-warriors-with-half-court-shot-against-suns/",
+                "news_item_source": "New York Post"
+              },
+              {
+                "news_item_title": "Poole party: Warriors guard enjoys breakout March",
+                "news_item_snippet": "SAN FRANCISCO — Jordan Poole wasn&#39;t fazed when Chris Paul tried chirping him during Wednesday&#39;s game against the Phoenix Suns.",
+                "news_item_url": "https://www.thereporter.com/2022/03/31/poole-party-march-best-month-for-third-year-guard/",
+                "news_item_source": "Vacaville Reporter"
+              }
+            ]
+          },
+          {
+            "title": "Rob Kardashian",
+            "approx_traffic": "20,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rob%20Kardashian",
+            "pubDate": "Thu, 31 Mar 2022 04:00:00 -0700",
+            "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcQmcU13FMq6Ixu0KkZXUuP-UTU3Qo75hwas9xFfHhIuYB6-1jReM0xQzma7YTY0zZRJNJ4qMuIq",
+            "picture_source": "Newsweek",
+            "news_item": [
+              {
+                "news_item_title": "Why Tyga And Rob Kardashian Dispute Blac Chyna&#39;s Child Support ...",
+                "news_item_snippet": "Socialite and model Blac Chyna has taken to social media to air her feelings about being a single mom and her alleged lack of support from the fathers of&nbsp;...",
+                "news_item_url": "https://www.newsweek.com/tyga-rob-kardashian-response-blac-chyna-no-child-support-claims-twitter-1693665",
+                "news_item_source": "Newsweek"
+              },
+              {
+                "news_item_title": "Rob Kardashian and Tyga Call Out Blac Chyna Over Child Support ...",
+                "news_item_snippet": "Chyna made the claims on Twitter, writing &quot;Yesterday I had to give up 3 of my cars …my reasons… morals, beliefs, being a single mother, no support I&#39;m a MAMA.&quot;&nbsp;...",
+                "news_item_url": "https://www.cosmopolitan.com/entertainment/celebs/a39594958/rob-kardashian-tyga-blac-chyna-child-support-instagram-comments/",
+                "news_item_source": "Cosmopolitan.com"
+              }
+            ]
+          },
+          {
+            "title": "Chris Pine",
+            "approx_traffic": "20,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Pine",
+            "pubDate": "Thu, 31 Mar 2022 01:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhHPwS9s3ZAyvbn7Qy2KE-nLIsXmXWzaQNyCFBOUW0lC5CbJFF4gPZiW5oszQDl3YjZD5kTriD",
+            "picture_source": "USA TODAY",
+            "news_item": [
+              {
+                "news_item_title": "Chris Pine shoots down Steve Trevor&#39;s return in &#39;Wonder Woman 3 ...",
+                "news_item_snippet": "Chris Pine tells USA TODAY about freezing in Romania and getting intimate with Thandiwe Newton in his new pair of action thrillers.",
+                "news_item_url": "https://www.usatoday.com/story/entertainment/movies/2022/03/31/chris-pine-contractor-all-the-old-knives-interview-star-trek-wonder-woman/7205235001/",
+                "news_item_source": "USA TODAY"
+              },
+              {
+                "news_item_title": "Why Chris Pine Pretended to Be Chris Evans at 2022 Oscars Party",
+                "news_item_snippet": "After being mistaken for a &#39;90s star at a recent Oscars party, Chris Pine pretended to be Chris Evans—and the story is just as hilarious as it sounds.",
+                "news_item_url": "https://www.eonline.com/ca/news/1325376/why-chris-pine-pretended-to-be-chris-evans-at-2022-oscars-party",
+                "news_item_source": "E! Online"
+              }
+            ]
+          },
+          {
+            "title": "Aphasia",
+            "approx_traffic": "10,000,000+",
+            "description": "Bruce Willis, what is aphasia, Aphasia Diagnosis, aphasia causes, Demi Moore, bruce willis illness, aphasia symptoms, rumer willis, aphasia bruce, bruce willis aphasia, aphasia disease, aphasia bruce willis, bruce willis wife, aphasia treatment, what is aphasia diagnosis",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aphasia",
+            "pubDate": "Wed, 30 Mar 2022 10:00:00 -0700",
+            "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTN-cVWiQi1Jho3P_Seg3unpjbLikkU4GHOH78SOEFjZKY6-bgDPrYvstR0NPq_nOxnpdYDmWLW",
+            "picture_source": "NPR",
+            "news_item": [
+              {
+                "news_item_title": "Understanding aphasia, the condition impacting Bruce Willis&#39; acting ...",
+                "news_item_snippet": "While details of Willis&#39; diagnosis are unknown, medical experts stress the importance of the brain condition and how it&#39;s specifically treated — depending&nbsp;...",
+                "news_item_url": "https://www.npr.org/2022/03/31/1089806228/what-is-aphasia-explained",
+                "news_item_source": "NPR"
+              },
+              {
+                "news_item_title": "What is aphasia? Bruce Willis halts acting career after diagnosis",
+                "news_item_snippet": "An aphasia diagnosis has prompted Bruce Willis to step away from acting. What is aphasia and what causes it? Read about common symptoms and treatment.",
+                "news_item_url": "https://www.nbcnews.com/health/health-news/aphasia-causes-symptoms-treatment-bruce-willis-rcna22261",
+                "news_item_source": "NBC News"
+              }
+            ]
+          },
+          {
+            "title": "USMNT",
+            "approx_traffic": "1,000,000+",
+            "description": "usa vs costa rica, costa rica vs usa, World Cup qualifiers, CONCACAF qualifiers, Concacaf World Cup Qualifying, concacaf world cup qualifiers, usa",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USMNT",
+            "pubDate": "Wed, 30 Mar 2022 08:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJXyRD5tpF2zNcS-Oc9iPb6UXWSNu74HiITWEoLlSsLlJCPzllmhJPV541V9NI3p6gKnSe2gxU",
+            "picture_source": "Sports Illustrated",
+            "news_item": [
+              {
+                "news_item_title": "USMNT Finish 3rd In CONCACAF Qualifying Table To Book Qatar ...",
+                "news_item_snippet": "The USMNT have qualified for the 2022 FIFA World Cup in Qatar. Gregg Berhalter&#39;s side went into Wednesday&#39;s final CONCACAF group game against Costa Rica&nbsp;...",
+                "news_item_url": "https://www.si.com/fannation/soccer/futbol/news/usmnt-finish-3rd-in-concacaf-world-cup-qualifying-table",
+                "news_item_source": "Sports Illustrated"
+              },
+              {
+                "news_item_title": "World Cup ticket punched, USMNT exhale as Qatar 2022 awaits ...",
+                "news_item_snippet": "SAN JOSE, Costa Rica – Normally, interrupting the head coach&#39;s remarks is a cardinal sin for any player.",
+                "news_item_url": "https://www.mlssoccer.com/news/world-cup-ticket-punched-usmnt-exhale-as-qatar-2022-awaits-the-emotions-are-a-bi",
+                "news_item_source": "MLSsoccer.com"
+              }
+            ]
+          },
+          {
+            "title": "Bruce Arians",
+            "approx_traffic": "500,000+",
+            "description": "Todd Bowles, tampa bay buccaneers",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Arians",
+            "pubDate": "Wed, 30 Mar 2022 18:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQm3-o0xVdPeBOzuqTT_GnX-daaPs0xGijw7__CMPuXrEjfkqu3ldIW2Gqipb8RhaoSXzNKLs6i",
+            "picture_source": "The New York Times",
+            "news_item": [
+              {
+                "news_item_title": "Retiring as Coach, Bruce Arians Joins the Buccaneers&#39; Front Office",
+                "news_item_snippet": "Arians left a previous retirement to coach Tampa Bay in 2019 and won a title after the 2020 season. Todd Bowles, the defensive coordinator and a former Jets&nbsp;...",
+                "news_item_url": "https://www.nytimes.com/2022/03/30/sports/football/bruce-arians-buccaneers-nfl.html",
+                "news_item_source": "The New York Times"
+              },
+              {
+                "news_item_title": "Bruce Arians Texted His Players a Letter, Thanked Them for Super ...",
+                "news_item_snippet": "The former Tampa Bay head coach had a message for his players before his retirement went public.",
+                "news_item_url": "https://www.si.com/nfl/2022/03/31/bruce-arians-tampa-bay-buccaneers-players-thank-you-letter",
+                "news_item_source": "Sports Illustrated"
+              }
+            ]
+          },
+          {
+            "title": "Tom Parker",
+            "approx_traffic": "500,000+",
+            "description": "the Wanted",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Parker",
+            "pubDate": "Wed, 30 Mar 2022 10:00:00 -0700",
+            "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcSJ3xWoum4wv8axi0qcTMqboa4A9G0gYGAH84DCKzYKhP32iPXuuQLYKkNN1y_4jH6YhpIDPLTi",
+            "picture_source": "BBC News",
+            "news_item": [
+              {
+                "news_item_title": "Tom Parker: &#39;Incredible&#39; The Wanted singer praised by cancer charities",
+                "news_item_snippet": "Parker, 33, who died of brain cancer, was &quot;amazing&quot; at raising awareness and funding, charities say.",
+                "news_item_url": "https://www.bbc.com/news/entertainment-arts-60938739",
+                "news_item_source": "BBC News"
+              },
+              {
+                "news_item_title": "Tom Parker obituary",
+                "news_item_snippet": "Low-key, witty singer of the Wanted who found a post-boyband career in reality TV and the vlogosphere.",
+                "news_item_url": "https://www.theguardian.com/music/2022/mar/30/tom-parker-obituary",
+                "news_item_source": "The Guardian"
+              }
+            ]
+          },
+          {
+            "title": "Tornado Watch",
+            "approx_traffic": "200,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado%20Watch",
+            "pubDate": "Wed, 30 Mar 2022 18:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcRSUyVox0FdpCch_YaMpx0wXjcMqMXnXXhs3EFQ6-kyVy-udxhtjL4lHEbVKYgGPk1Ob85eCCAt",
+            "picture_source": "ABC News",
+            "news_item": [
+              {
+                "news_item_title": "8 states under tornado watch in South, Midwest",
+                "news_item_snippet": "Severe weather has prompted tornado watches for parts of eight states, including some areas hit by a swarm of twisters last week.",
+                "news_item_url": "https://abcnews.go.com/US/southern-states-tornado-watch/story?id=83758927",
+                "news_item_source": "ABC News"
+              },
+              {
+                "news_item_title": "NWS issues Severe Thunderstorm Warning, Tornado Watch, Flood ...",
+                "news_item_snippet": "The National Weather Service in Paducah has issued a Tornado Watch, a Severe Thunderstorm Warning, and a Flood Advisory for Daviess County.",
+                "news_item_url": "https://www.owensborotimes.com/news/2022/03/nws-issues-severe-thunderstorm-warning-tornado-watch-flood-advisory-for-daviess-county/",
+                "news_item_source": "The Owensboro Times"
+              }
+            ]
+          },
+          {
+            "title": "Paul Herman",
+            "approx_traffic": "100,000+",
+            "description": "sopranos actor paul herman",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20Herman",
+            "pubDate": "Wed, 30 Mar 2022 11:00:00 -0700",
+            "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRIWulIHyT7u5EA6SMSqy0s5k1ML44wae-p7Reasjwm9pYj2cYlHAHCbXb4HT0IabXP8gaKmVAW",
+            "picture_source": "NBC News",
+            "news_item": [
+              {
+                "news_item_title": "Paul Herman, &#39;The Sopranos&#39; and &#39;Goodfellas&#39; actor, dies at 76",
+                "news_item_snippet": "Paul Herman, the character actor best known for his role as club owner Peter “Beansie” Gaeta in “The Sopranos,” died Tuesday.",
+                "news_item_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/paul-herman-sopranos-goodfellas-actor-dies-76-rcna22349",
+                "news_item_source": "NBC News"
+              },
+              {
+                "news_item_title": "Paul Herman, actor known for &#39;The Sopranos&#39; and &#39;Goodfellas,&#39; has ...",
+                "news_item_snippet": "Paul Herman, an actor known for his roles in &quot;The Sopranos,&quot; &quot;Goodfellas&quot; and &quot;The Irishman,&quot; has died, according to his manager.",
+                "news_item_url": "https://www.cnn.com/2022/03/31/entertainment/paul-herman-actor-dead/index.html",
+                "news_item_source": "CNN"
+              }
+            ]
+          },
+          {
+            "title": "Hunter Biden",
+            "approx_traffic": "100,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hunter%20Biden",
+            "pubDate": "Wed, 30 Mar 2022 13:00:00 -0700",
+            "picture": "https://t1.gstatic.com/images?q=tbn:ANd9GcSEFhQ8e2kQ8hGWIQ3HqXODcbs9XZ75kxU3AwAbikGJrbgtSKt4RigfRFL7vpq0acPf2gCA-6dk",
+            "picture_source": "The Washington Post",
+            "news_item": [
+              {
+                "news_item_title": "U.S. Sen. Johnson: Discusses how Hunter and James Biden paid ...",
+                "news_item_snippet": "Sen. Johnson on Senate Floor: Hunter and James Biden Paid Millions by Now-Convicted “Spy Chief of China”. WASHINGTON—On Tuesday, U.S. Sen.",
+                "news_item_url": "https://www.wispolitics.com/2022/u-s-sen-johnson-discusses-how-hunter-and-james-biden-paid-millions-by-now-convicted-spy-chief-of-china/",
+                "news_item_source": "WisPolitics.com"
+              },
+              {
+                "news_item_title": "Hunter Biden laptop findings renew scrutiny of Twitter, Facebook ...",
+                "news_item_snippet": "Happy Thursday! Today&#39;s top was reported with our stellar tech news analysis writer Will Oremus. Below: A key tech nominee inches closer to confirmation,&nbsp;...",
+                "news_item_url": "https://www.washingtonpost.com/politics/2022/03/31/hunter-biden-laptop-findings-renew-scrutiny-twitter-facebook-crackdowns/",
+                "news_item_source": "The Washington Post"
+              }
+            ]
+          },
+          {
+            "title": "Wears Valley Fire",
+            "approx_traffic": "100,000+",
+            "description": "gatlinburg fire",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wears%20Valley%20Fire",
+            "pubDate": "Wed, 30 Mar 2022 21:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcTT7NMrgOgsuhLedgyH50ZPqh1kmMslbtgHTYg5EBD6wExv61rgEg1guS7FybakP2_-tkwHwjN0",
+            "picture_source": "Knoxville News Sentinel",
+            "news_item": [
+              {
+                "news_item_title": "Wears Valley fire in Smokies grows to 3700 acres, 5% contained",
+                "news_item_snippet": "Overnight rainfall helped compete with gusty winds on the Hatcher Mountain Road/Indigo Lane Fire that erupted Wednesday in the popular Great Smoky Mountains&nbsp;...",
+                "news_item_url": "https://www.knoxnews.com/story/news/environment/2022/03/31/wears-valley-fire-firefighters-continue-battle-wildfire/7225148001/",
+                "news_item_source": "Knoxville News Sentinel"
+              },
+              {
+                "news_item_title": "Wears Valley wildfire: Crews continue to battle flames despite ...",
+                "news_item_snippet": "Fire, emergency and utilities crews worked overnight in Sevier County as wildfires burned in the area and storms moved in across the region.",
+                "news_item_url": "https://www.wate.com/news/wears-valley-wildfire/wears-valley-wildfire-crews-continue-to-battle-flames-despite-overnight-rain/",
+                "news_item_source": "WATE 6 On Your Side"
+              }
+            ]
+          },
+          {
+            "title": "Eric Church",
+            "approx_traffic": "100,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eric%20Church",
+            "pubDate": "Wed, 30 Mar 2022 11:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcThK3aeu2MHh4wB_7JvABiw-6FvWaOVRtgzik8kHDxKc1yvUW6voAOkYpX4PB6OuLp2o7gXwelN",
+            "picture_source": "wflx",
+            "news_item": [
+              {
+                "news_item_title": "Eric Church cancels concert to attend Final Four instead",
+                "news_item_snippet": "Country music singer Eric Church has drawn the ire of his fans after he canceled a concert to attend the Final Four instead.",
+                "news_item_url": "https://www.wflx.com/2022/03/31/eric-church-cancels-concert-attend-final-four-instead/",
+                "news_item_source": "wflx"
+              },
+              {
+                "news_item_title": "Country star Eric Church cancels show so he can watch UNC-Duke ...",
+                "news_item_snippet": "Church, who refers to his fans as the “Church choir,” said giving up the concert to attend the NCAA basketball tournament was the “most selfish” thing he&nbsp;...",
+                "news_item_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/country-star-eric-church-cancels-show-can-watch-unc-duke-final-four-ga-rcna22265",
+                "news_item_source": "NBC News"
+              }
+            ]
+          },
+          {
+            "title": "Mexico",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico",
+            "pubDate": "Wed, 30 Mar 2022 20:00:00 -0700",
+            "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNK1XVabCQBnoeU4GVeVnN3DEbk-kVLSYT3omQCHhz6Vxrp7ne3_JV-gWWUxbynL4kEzejMA24",
+            "picture_source": "CBS News",
+            "news_item": [
+              {
+                "news_item_title": "Melissa Silva, American mother of four, among 20 killed in Mexico ...",
+                "news_item_snippet": "Melissa Silva, who grew up outside Chicago, was one of 20 people killed at a venue used to host cockfights in Mexico Sunday night.",
+                "news_item_url": "https://www.cbsnews.com/news/melissa-silva-us-mother-killed-mexico-mass-shooting/",
+                "news_item_source": "CBS News"
+              },
+              {
+                "news_item_title": "Mother of four among 20 dead in Mexico cockfight massacre",
+                "news_item_snippet": "Prosecutors claimed that the shooters planned the attack and entered the area in a stolen truck owned by a snack food company.",
+                "news_item_url": "https://nypost.com/2022/03/31/melissa-silva-dead-sister-arleth-silva-injured-in-mexico-cockfight-massacre/",
+                "news_item_source": "New York Post"
+              }
+            ]
+          },
+          {
+            "title": "Foo Fighters drummer Taylor Hawkins",
+            "approx_traffic": "50,000+",
+            "description": "taylor hawkins foo fighters drummer",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Foo%20Fighters%20drummer%20Taylor%20Hawkins",
+            "pubDate": "Wed, 30 Mar 2022 11:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcSKSE6hBOJKke64lOLu12vbcycw0XDZbNDAtN2LP6gSThtcikQ3ckgB4wWyI3XFNjuVKrTuHcFy",
+            "picture_source": "New York Post",
+            "news_item": [
+              {
+                "news_item_title": "Grammys to &#39;honor memory&#39; of Foo Fighters drummer Taylor Hawkins",
+                "news_item_snippet": "The late Foo Fighters drummer Taylor Hawkins will be honored during the 2022 Grammy Awards broadcast on Sunday. He and the rest of the band were previously&nbsp;...",
+                "news_item_url": "https://nypost.com/2022/03/30/grammys-to-honor-foo-fighters-drummer-taylor-hawkins/",
+                "news_item_source": "New York Post"
+              },
+              {
+                "news_item_title": "Machine Gun Kelly recalls hanging out with Foo Fighters drummer ...",
+                "news_item_snippet": "Machine Gun Kelly says he had a moment with the late Foo Fighters drummer Taylor Hawkins, just days before before his untimely passing.",
+                "news_item_url": "https://98kupd.com/machine-gun-kelly-recalls-hanging-out-with-foo-fighters-drummer-taylor-hawkins-shortly-before-his-death/",
+                "news_item_source": "Upcoming Events – 98KUPD – Arizona's Real Rock"
+              }
+            ]
+          },
+          {
+            "title": "World Cup 2022",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#World%20Cup%202022",
+            "pubDate": "Wed, 30 Mar 2022 05:00:00 -0700",
+            "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcTS3teloyqqr1SFfFgdAksqZ1h1bmUW9HhTUI7UlB-tCAmBx8B4MQtSiKpMe3XLoQAGX-fL7Eun",
+            "picture_source": "ESPN",
+            "news_item": [
+              {
+                "news_item_title": "United States books spot to 2022 World Cup in Qatar",
+                "news_item_snippet": "The United States men&#39;s national soccer team has qualified for the 2022 World Cup, securing its berth in the tournament in Qatar on Wednesday.",
+                "news_item_url": "https://www.espn.com/soccer/united-states-usa/story/4628810/united-states-to-2022-world-cup-in-qatar",
+                "news_item_source": "ESPN"
+              },
+              {
+                "news_item_title": "U.S. Men&#39;s National Team Qualifies For 2022 FIFA World Cup",
+                "news_item_snippet": "USA Punches Ticket to Qatar 2022 With Third-Place Finish in Concacaf World Cup Qualifying; 2022 FIFA World Cup Final Draw Will Take Place on Friday at Noon&nbsp;...",
+                "news_item_url": "https://www.ussoccer.com/stories/2022/03/2022-concacaf-world-cup-qualifying-usa-0-costa-rica-2-match-report-stats-standings",
+                "news_item_source": "U.S. Soccer"
+              }
+            ]
+          },
+          {
+            "title": "House of the Dragon",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#House%20of%20the%20Dragon",
+            "pubDate": "Wed, 30 Mar 2022 15:00:00 -0700",
+            "picture": "https://t2.gstatic.com/images?q=tbn:ANd9GcQOZZPgtit5bylSZ7KpPkIZrbvKQJxDxylFcneIbY8JOIw7JZabg562gTGXS22f106MsHfM6DYx",
+            "picture_source": "Vulture",
+            "news_item": [
+              {
+                "news_item_title": "Everything We Know About the Game of Thrones Prequel House of ...",
+                "news_item_snippet": "HBO has announced that Game of Thrones prequel series House of the Dragon is in production and will release in 2022. Here&#39;s everything else we know so far&nbsp;...",
+                "news_item_url": "https://www.vulture.com/2022/03/game-of-thrones-prequel-house-of-the-dragon-cast-and-details.html",
+                "news_item_source": "Vulture"
+              },
+              {
+                "news_item_title": "Game of Thrones spinoff House of the Dragon premieres August 21st",
+                "news_item_snippet": "HBO&#39;s upcoming Game of Thrones spinoff, House of the Dragon, will debut on HBO and HBO Max on August 21st. The show is set 200 years before the events of&nbsp;...",
+                "news_item_url": "https://www.theverge.com/2022/3/30/23003162/game-of-thrones-house-of-the-dragon-hbo-max-premiere-date",
+                "news_item_source": "The Verge"
+              }
+            ]
+          },
+          {
+            "title": "Malcolm Jenkins",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Malcolm%20Jenkins",
+            "pubDate": "Wed, 30 Mar 2022 11:00:00 -0700",
+            "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcQWG7SzRDV62VOb92soXZ7BLThFPFN2w52VvQcHMcq0PcNSC6UOsf2q7yAdvSEBjC30-pA3kmQ9",
+            "picture_source": "NFL.com",
+            "news_item": [
+              {
+                "news_item_title": "Longtime Saints, Eagles safety Malcolm Jenkins announces ...",
+                "news_item_snippet": "After 13 NFL seasons, two-time Super Bowl champion safety Malcolm Jenkins will no longer be going on patrols. The three-time Pro Bowler told Ryan Clark on&nbsp;...",
+                "news_item_url": "https://www.nfl.com/news/saints-safety-malcolm-jenkins-announces-retirement-after-13-seasons",
+                "news_item_source": "NFL.com"
+              },
+              {
+                "news_item_title": "Safety Malcolm Jenkins retires after 13-year NFL career",
+                "news_item_snippet": "Malcolm Jenkins is retiring after a 13-year NFL career in which he established himself as one of the league&#39;s best all-around safeties, most durable players&nbsp;...",
+                "news_item_url": "https://nypost.com/2022/03/31/safety-malcolm-jenkins-retires-after-13-year-nfl-career/",
+                "news_item_source": "New York Post"
+              }
+            ]
+          },
+          {
+            "title": "Sixers",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sixers",
+            "pubDate": "Wed, 30 Mar 2022 01:00:00 -0700",
+            "picture": "https://t3.gstatic.com/images?q=tbn:ANd9GcRU0OlMESl8piO_71qnFUIDjYTb-LLNwJbD32MJiAl929Gvj0_glWMDh5y_mO2DtiiYG0r_F_vz",
+            "picture_source": "Sports Illustrated",
+            "news_item": [
+              {
+                "news_item_title": "Did Embiid, Rivers See a Silver Lining in Tight Losses vs. Bucks ...",
+                "news_item_snippet": "The Philadelphia 76ers just wrapped up a difficult stretch of games where they faced last year&#39;s NBA Finals contestants one after the other.",
+                "news_item_url": "https://www.si.com/nba/76ers/news/joel-embiid-doc-rivers-didnt-find-silver-lining-i-sixers-tight-losses",
+                "news_item_source": "Sports Illustrated"
+              },
+              {
+                "news_item_title": "Sixers know more adjustments are needed after tight losses to ...",
+                "news_item_snippet": "After close losses to the Bucks and Suns, the Sixers recognize they must continue to self-adjust with the playoffs in mind. By Noah Levick.",
+                "news_item_url": "https://www.nbcsports.com/philadelphia/sixers/sixers-vs-bucks-james-harden-joel-embiid-doc-rivers-tobias-harris-nba",
+                "news_item_source": "NBC Sports"
+              }
+            ]
+          },
+          {
+            "title": "Naomi Irion",
+            "approx_traffic": "50,000+",
+            "description": "",
+            "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Naomi%20Irion",
+            "pubDate": "Wed, 30 Mar 2022 22:00:00 -0700",
+            "picture": "https://t0.gstatic.com/images?q=tbn:ANd9GcSGlIK_jwj5KP1-fpad7WZpPNFR2qj4lgWTdhkBaWhJLeJU-o60AWerfOfVyOxf0jjOUDGZWpX-",
+            "picture_source": "New York Post",
+            "news_item": [
+              {
+                "news_item_title": "Naomi Irion&#39;s family demands justice after body found at gravesite",
+                "news_item_snippet": "Casey Valley, the devastated brother of Naomi Irion, is calling for “justice” after her body was discovered buried in a remote part of Nevada more than two&nbsp;...",
+                "news_item_url": "https://nypost.com/2022/03/31/naomi-irions-family-demands-justice-after-body-found/",
+                "news_item_source": "New York Post"
+              },
+              {
+                "news_item_title": "Body of missing Nevada teen Naomi Irion found in rural &#39;gravesite ...",
+                "news_item_snippet": "The body of a Nevada teenager who was allegedly kidnapped from a Walmart parking lot over two weeks ago has been found, authorities said.",
+                "news_item_url": "https://abcnews.go.com/US/body-missing-nevada-teen-naomi-irion-found-rural/story?id=83775454",
+                "news_item_source": "ABC News"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
