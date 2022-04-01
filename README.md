@@ -1,6 +1,4 @@
 # Funix_Js-Project4
-
-## Project Public Website
 [Click here to continue to Index-page](https://nguyenthieuhuy.github.io/Funix_Js-Project4/Project4.html)
 
 ## Description
@@ -11,7 +9,7 @@ This Project is powerd by GNewsAPI. You can request upto 200 Requests per day.
 ## Authors
 
 Nguyen Thieu Huy
-[@DomPizzie](https://twitter.com/dompizzie)
+[@Facebook](https://www.facebook.com/huy.nguyenthieu.90/)
 
 ## License
 
