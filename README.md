@@ -1,7 +1,7 @@
 # Funix_Js-Project4
 
 ## Project Public Website
-https://nguyenthieuhuy.github.io/Funix_Js-Project4/Project4.html
+[Click here to continue to Index-page](https://nguyenthieuhuy.github.io/Funix_Js-Project4/Project4.html)
 
 ## Description
 This is a simple News Webapp for fetching Headlines news and customize your own News generator upon your interest.
